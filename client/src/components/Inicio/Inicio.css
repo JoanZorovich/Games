@@ -1,0 +1,10 @@
+.background{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+}
+
+#root{
+  background-color: #e6e6e6;
+}

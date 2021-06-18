@@ -1,0 +1,41 @@
+
+#imagen-videojuego{
+
+  display: flex;
+  height: 500px;
+
+  justify-content: center;
+}
+
+.titulo{
+  display: flex;
+  justify-content: center;
+  color: #e21a1a;
+  font-size: 70px;
+  margin-top: 3px; 
+  text-shadow: #fff176 3px -2px;
+  font-variant: small-caps;
+}
+
+.genero{
+  display: flex;
+  justify-content: center;
+  margin-top: -50px; 
+}
+
+.desc{
+  display: flex;
+  justify-content: center;
+  margin-left: 15px;
+  font-size: 20px;
+  margin-bottom: 10px;
+  margin-top: 15px;
+}
+
+.description{
+  display: flex;
+  justify-content: center;
+  margin-top: -15px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
