@@ -24,6 +24,7 @@ DB_USER=usuariodepostgres
 DB_PASSWORD=passwordDePostgres
 DB_HOST=localhost
 API_KEY=tu API key
+DB_NAME=videogames
 PORT=3001
 ```
 Adicionalmente será necesario que crees desde psql una base de datos llamada videogames
