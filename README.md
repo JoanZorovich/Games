@@ -26,12 +26,11 @@ DB_HOST=localhost
 API_KEY=tu API key
 PORT=3001
 ```
-Adicionalmente será necesario que crees![portada](https://user-images.githubusercontent.com/74875335/123447394-6969f480-d59f-11eb-9fe0-df30bc8a0be0.PNG)
- desde psql una base de datos llamada videogames
+Adicionalmente será necesario que crees desde psql una base de datos llamada videogames
 
 ### Instalación 🔧
 
-1. Clone the repo
+1. Clona el repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
@@ -54,7 +53,7 @@ Adicionalmente será necesario que crees![portada](https://user-images.githubuse
 
 ## Licencia 📄
 
-Este proyecto fue creado con fines educativos, no tiene dines lucrativos - sientete libre de usarlo
+Este proyecto fue creado con fines educativos, no tiene fines lucrativos - sientete libre de usarlo
 
 
 
