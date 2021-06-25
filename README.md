@@ -53,7 +53,7 @@ Adicionalmente será necesario que crees desde psql una base de datos llamada vi
 
 ## Licencia 📄
 
-Este proyecto fue creado con fines educativos, no tiene fines lucrativos - sientete libre de usarlo
+Este proyecto fue creado con fines educativos, no tiene fines de lucro - sientete libre de usarlo
 
 
 
