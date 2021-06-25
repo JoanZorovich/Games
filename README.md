@@ -2,7 +2,7 @@
 
 En esta aplicación podrás ver distintos videojuegos disponibles junto con información relevante de los mismos utilizando la api externa [rawg](https://rawg.io/apidocs) y a partir de ella poder, entre otras cosas:
 
-  - Buscar videjuegos
+  - Buscar videojuegos
   - Filtrarlos / Ordenarlos
   - Agregar nuevos videojuegos
 
