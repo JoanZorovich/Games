@@ -32,7 +32,7 @@ Adicionalmente será necesario que crees desde psql una base de datos llamada vi
 
 1. Clona el repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/JoanZorovich/Games.git
    ```
 2. Instala los paquetes
    ```sh
