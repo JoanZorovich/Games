@@ -7,7 +7,11 @@ En esta aplicación podrás ver distintos videojuegos disponibles junto con info
   - Agregar nuevos videojuegos
 
 ![portada](https://user-images.githubusercontent.com/74875335/123447420-71c22f80-d59f-11eb-9a33-c42f16d2e1fe.PNG)
+
+## -Home
 ![Home](https://user-images.githubusercontent.com/74875335/123447440-771f7a00-d59f-11eb-8d3d-578fc4d72872.PNG)
+
+## -Detalle de videojuego
 ![Videogame Detail](https://user-images.githubusercontent.com/74875335/123447443-78e93d80-d59f-11eb-8271-f1d441e03a41.PNG)
 
 
